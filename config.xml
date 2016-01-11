@@ -117,3 +117,4 @@
 <plugin name="tr.bel.mamak.sms_plagin" spec="0.1.0" source="pgb" />
 <plugin name="com.simonmacdonald.telephonenumber" spec="1.0.0" source="pgb" />
 <plugin name="com.cordova.plugins.sms" spec="0.1.2" source="pgb" />
+<plugin name="com.synconset.imageresizer" spec="0.1.1" source="pgb" />
